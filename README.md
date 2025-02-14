@@ -19,7 +19,7 @@ Compile as a Windows application (e.g. wWinMain).
 Run the resulting .exe.
 
 Usage
-Start/Stop: Click the “Inactive” button (or press Mouse5) to toggle. It becomes “Active” when auto-clicking is on.
+Start/Stop: Click Mouse5 to toggle. It becomes “Active” when auto-clicking is on.
 Exit: Press the “Exit” button or close the window.
 
 Notes
